@@ -1,0 +1,1 @@
+Testprojekt för att latcha med git. ÅÄÖ åäö
